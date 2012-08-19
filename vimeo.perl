@@ -38,10 +38,11 @@ do {
 
 open feed,'>feed.xml_';
 
-print feed "<feed xmlns=\"http://www.w3.org/2005/Atom\"><title>Vimeo: sebseb7</title><link rel=\"alternate\" type=\"text/html\" href=\"http://vimeo.com/sebseb7\"/>\n";
+print feed "<feed xmlns=\"http://www.w3.org/2005/Atom\">\n\n	<title>Vimeo: Seb's FPV Videos</title>\n	<link rel=\"alternate\" type=\"text/html\" href=\"http://vimeo.com/sebseb7\"/>\n";
 
 my $logo_ok = 0;
 
+@videos = reverse sort @videos;
 
 for(0..$#videos)
 {
@@ -149,7 +150,7 @@ for(0..$#videos)
 		
 		if($info =~ /\<user_portrait_huge\>(.*)\<\/user_portrait_huge\>/)
 		{
-			print feed "\n	<logo>$1</logo>\n";
+			print feed "	<logo>$1</logo>\n";
 		}
 		
 	}
@@ -210,8 +211,10 @@ for(0..$#videos)
 		<link rel=\"logo\" type=\"image/jpeg\" href=\"$logo\"/>
 		<logo>$logo</logo>
 		<link rel=\"alternate\" type=\"text/html\" href=\"http://vimeo.com/".$videos[$_]."\"/>
-		<link rel=\"alternate\" type=\"text/html\" href=\"$yt\"\"/>
+		<link rel=\"alternate\" type=\"text/html\" href=\"$yt\"/>
 		<link rel=\"enclosure\" href=\"http://video.exse.net/vimeo/".$videos[$_].$filetype."\"/>
+		<link rel=\"alternate\" type=\"text/html\" href=\"$yt\"/>
+		<link rel=\"payment\" href=\"https://flattr.com/submit/auto?user_id=sebseb7&amp;url=http://vimeo.com/".$videos[$_]."\"/>
 	</entry>
 
 ";	
