@@ -160,6 +160,19 @@
 
 
 	<entry>
+		<title>Mobiles Kopter Tool</title>
+		<published>2010-09-15T01:16:22.000Z</published>
+		<summary type="html">Jetzt auch Settings verstellen.&lt;br /&gt; &lt;br /&gt; einfach per Wi232 mit der Kopter Verbinden und unterwegs Settings verstellen.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; http://ddfpv.de/projects/mft/</summary>
+		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/894/479/89447999_640.jpg"/>
+		<logo>http://b.vimeocdn.com/ts/894/479/89447999_640.jpg</logo>
+		<link rel="alternate" type="text/html" href="http://vimeo.com/14983435"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=FkPu4JeEufY""/>
+		<link rel="enclosure" href="http://video.exse.net/vimeo/14983435.m4v"/>
+	</entry>
+
+
+
+	<entry>
 		<title>TwinStar FPV</title>
 		<published>2010-09-12T18:28:27.000Z</published>
 		<summary type="html">Camera: FatShark HD1&lt;br /&gt; Pilot: FY-21AP&lt;br /&gt; max Distance: 2.1km&lt;br /&gt; Altitude: 150m &lt;br /&gt; &lt;br /&gt; http://ddfpv.de/</summary>
@@ -220,6 +233,19 @@
 		<link rel="alternate" type="text/html" href="http://vimeo.com/10672362"/>
 		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=jfm8-x5GKcg""/>
 		<link rel="enclosure" href="http://video.exse.net/vimeo/10672362.mp4"/>
+	</entry>
+
+
+
+	<entry>
+		<title>LED Wall</title>
+		<published>2011-03-16T14:39:30.000Z</published>
+		<summary type="html">finally done.&lt;br /&gt; &lt;br /&gt; 26fps over USART and I2C</summary>
+		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/135/651/135651448_640.jpg"/>
+		<logo>http://b.vimeocdn.com/ts/135/651/135651448_640.jpg</logo>
+		<link rel="alternate" type="text/html" href="http://vimeo.com/21123365"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=vDPHBh5R2cQ""/>
+		<link rel="enclosure" href="http://video.exse.net/vimeo/21123365.m4v"/>
 	</entry>
 
 
@@ -368,14 +394,14 @@
 
 
 	<entry>
-		<title>Mobiles Kopter Tool</title>
-		<published>2010-09-15T01:16:22.000Z</published>
-		<summary type="html">Jetzt auch Settings verstellen.&lt;br /&gt; &lt;br /&gt; einfach per Wi232 mit der Kopter Verbinden und unterwegs Settings verstellen.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; http://ddfpv.de/projects/mft/</summary>
-		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/894/479/89447999_640.jpg"/>
-		<logo>http://b.vimeocdn.com/ts/894/479/89447999_640.jpg</logo>
-		<link rel="alternate" type="text/html" href="http://vimeo.com/14983435"/>
-		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=FkPu4JeEufY""/>
-		<link rel="enclosure" href="http://video.exse.net/vimeo/14983435.m4v"/>
+		<title>Preikestolen Helicopter Flight</title>
+		<published>2011-08-12T14:13:04.000Z</published>
+		<summary type="html">T-Rex 450 &amp; GoPro</summary>
+		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/183/668/183668055_640.jpg"/>
+		<logo>http://b.vimeocdn.com/ts/183/668/183668055_640.jpg</logo>
+		<link rel="alternate" type="text/html" href="http://vimeo.com/27633796"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=b1Rmnes9BL8""/>
+		<link rel="enclosure" href="http://video.exse.net/vimeo/27633796.m4v"/>
 	</entry>
 
 
@@ -524,14 +550,14 @@
 
 
 	<entry>
-		<title>LED Wall</title>
-		<published>2011-03-16T14:39:30.000Z</published>
-		<summary type="html">finally done.&lt;br /&gt; &lt;br /&gt; 26fps over USART and I2C</summary>
-		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/135/651/135651448_640.jpg"/>
-		<logo>http://b.vimeocdn.com/ts/135/651/135651448_640.jpg</logo>
-		<link rel="alternate" type="text/html" href="http://vimeo.com/21123365"/>
-		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=vDPHBh5R2cQ""/>
-		<link rel="enclosure" href="http://video.exse.net/vimeo/21123365.m4v"/>
+		<title>Poi test</title>
+		<published>2011-11-20T19:56:48.000Z</published>
+		<summary type="html">poi</summary>
+		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/219/316/219316280_640.jpg"/>
+		<logo>http://b.vimeocdn.com/ts/219/316/219316280_640.jpg</logo>
+		<link rel="alternate" type="text/html" href="http://vimeo.com/32422482"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=X1eUpnI0ETk""/>
+		<link rel="enclosure" href="http://video.exse.net/vimeo/32422482.vid"/>
 	</entry>
 
 
@@ -680,19 +706,6 @@
 
 
 	<entry>
-		<title>Preikestolen Helicopter Flight</title>
-		<published>2011-08-12T14:13:04.000Z</published>
-		<summary type="html">T-Rex 450 &amp; GoPro</summary>
-		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/183/668/183668055_640.jpg"/>
-		<logo>http://b.vimeocdn.com/ts/183/668/183668055_640.jpg</logo>
-		<link rel="alternate" type="text/html" href="http://vimeo.com/27633796"/>
-		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=b1Rmnes9BL8""/>
-		<link rel="enclosure" href="http://video.exse.net/vimeo/27633796.m4v"/>
-	</entry>
-
-
-
-	<entry>
 		<title>Klettern an der Nonne</title>
 		<published>2012-03-24T14:34:04.000Z</published>
 		<summary type="html"></summary>
@@ -784,6 +797,19 @@
 
 
 	<entry>
+		<title>Dresden Rundflug</title>
+		<published>2012-01-09T08:43:19.000Z</published>
+		<summary type="html">Dresden per Twinstar</summary>
+		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/237/158/237158263_640.jpg"/>
+		<logo>http://b.vimeocdn.com/ts/237/158/237158263_640.jpg</logo>
+		<link rel="alternate" type="text/html" href="http://vimeo.com/34782390"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=dpGV13JZe9c""/>
+		<link rel="enclosure" href="http://video.exse.net/vimeo/34782390.vid"/>
+	</entry>
+
+
+
+	<entry>
 		<title>Funjet</title>
 		<published>2012-01-09T04:53:15.000Z</published>
 		<summary type="html">Funjet &amp; Mentor &amp; Merlin</summary>
@@ -831,19 +857,6 @@
 		<link rel="alternate" type="text/html" href="http://vimeo.com/32516985"/>
 		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=SIr9sbyf5Zo""/>
 		<link rel="enclosure" href="http://video.exse.net/vimeo/32516985.vid"/>
-	</entry>
-
-
-
-	<entry>
-		<title>Poi test</title>
-		<published>2011-11-20T19:56:48.000Z</published>
-		<summary type="html">poi</summary>
-		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/219/316/219316280_640.jpg"/>
-		<logo>http://b.vimeocdn.com/ts/219/316/219316280_640.jpg</logo>
-		<link rel="alternate" type="text/html" href="http://vimeo.com/32422482"/>
-		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=X1eUpnI0ETk""/>
-		<link rel="enclosure" href="http://video.exse.net/vimeo/32422482.vid"/>
 	</entry>
 
 
