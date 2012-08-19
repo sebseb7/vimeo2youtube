@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 
 #40 videos in yt before
+#how to recode to 4megabit: ffmpeg -i <input-file> -b:v 4194304 <outputfile>
 
 use LWP::Simple;
 use strict;
@@ -57,6 +58,7 @@ for(0..$#videos)
 	my $desc;
 	my $date;
 	my $logo;
+	my $tags;
 
 	my $filetype;
 	my $yt;
@@ -127,11 +129,15 @@ for(0..$#videos)
 	{
 		$desc = $1;
 	}
+	if($info =~ /\<tags\>(.*)\<\/tags\>/)
+	{
+		$tags = $1;
+	}
 	if($info =~ /\<upload_date\>(.*)\<\/upload_date\>/)
 	{
 		$date = $1;
 		$date =~ s/ /T/;
-		$date.=".000Z";
+		$date.=".000-04:00";
 	}
 	if($info =~ /\<thumbnail_large\>(.*)\<\/thumbnail_large\>/)
 	{
@@ -170,7 +176,7 @@ for(0..$#videos)
 		warn Encode::encode("ISO-8859-1", $desc2);
 		my $title2 =  decode_entities($title);
 		my $title2 =  encode_entities($title2);
-		my $return  =	`google youtube post --category Sports --title \'$title2\' --summary \'Vimeo: http://vimeo.com/$id (higher Quality)\nTorrent: http://bitlove.org/sebseb7/vimeo/$filename.torrent\n(highest Quality; original File)\n\n$desc2\' $filename 2>&1`;
+		my $return  =	`google youtube post --category Sports --title "$title2" --summary "Vimeo: http://vimeo.com/$id (higher Quality)\nTorrent: http://bitlove.org/sebseb7/vimeo/$filename.torrent\n(highest Quality; original File)\n\n$desc2" --tags "$tags" $filename 2>&1`;
 		open  outfile,'>youtube_ok'.$filename;
 		print outfile $return;
 		close outfile;

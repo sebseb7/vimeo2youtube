@@ -6,8 +6,38 @@
 
 
 	<entry>
+		<title>Drei Zinnen - Fliegen in den Wolken</title>
+		<published>2012-08-19T04:39:38.000-04:00</published>
+		<summary type="html"></summary>
+		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/331/462/331462182_640.jpg"/>
+		<logo>http://b.vimeocdn.com/ts/331/462/331462182_640.jpg</logo>
+		<link rel="alternate" type="text/html" href="http://vimeo.com/47803388"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=4fJXDCLrW4E"/>
+		<link rel="enclosure" href="http://video.exse.net/vimeo/47803388.mov"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=4fJXDCLrW4E"/>
+		<link rel="payment" href="https://flattr.com/submit/auto?user_id=sebseb7&amp;url=http://vimeo.com/47803388"/>
+	</entry>
+
+
+
+	<entry>
+		<title>Dresden FPV Campus</title>
+		<published>2012-08-19T04:32:09.000-04:00</published>
+		<summary type="html">From Bismarksäule to Budapester Strasse via University Campus</summary>
+		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/331/461/331461153_640.jpg"/>
+		<logo>http://b.vimeocdn.com/ts/331/461/331461153_640.jpg</logo>
+		<link rel="alternate" type="text/html" href="http://vimeo.com/47803246"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=b8FJL4q5jms"/>
+		<link rel="enclosure" href="http://video.exse.net/vimeo/47803246.m4v"/>
+		<link rel="alternate" type="text/html" href="http://www.youtube.com/watch?v=b8FJL4q5jms"/>
+		<link rel="payment" href="https://flattr.com/submit/auto?user_id=sebseb7&amp;url=http://vimeo.com/47803246"/>
+	</entry>
+
+
+
+	<entry>
 		<title>FPV Bayrischzell</title>
-		<published>2012-08-19T00:21:26.000Z</published>
+		<published>2012-08-19T00:21:26.000-04:00</published>
 		<summary type="html">short fpv flight on the parking lot</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/331/430/331430586_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/331/430/331430586_640.jpg</logo>
@@ -22,7 +52,7 @@
 
 	<entry>
 		<title>Sørfjord (Hardangerfjord) FPV</title>
-		<published>2012-08-18T14:39:29.000Z</published>
+		<published>2012-08-18T14:39:29.000-04:00</published>
 		<summary type="html">outside of Stanadtunneln near Tyssedal&lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt;  Coord: 60.140565,6.567593&lt;br /&gt;  &lt;br /&gt;  http://bitlove.org/sebseb7/vimeo/47782307.mp4.torrent</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/331/327/331327464_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/331/327/331327464_640.jpg</logo>
@@ -37,7 +67,7 @@
 
 	<entry>
 		<title>Drei Zinnen FPV</title>
-		<published>2012-08-18T14:10:42.000Z</published>
+		<published>2012-08-18T14:10:42.000-04:00</published>
 		<summary type="html">Tre Cime di Lavaredo</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/331/320/331320416_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/331/320/331320416_640.jpg</logo>
@@ -52,7 +82,7 @@
 
 	<entry>
 		<title>Mand'stock Festival FPV</title>
-		<published>2012-08-10T21:59:47.000Z</published>
+		<published>2012-08-10T21:59:47.000-04:00</published>
 		<summary type="html">Mand Stock Festival Arco</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/331/356/331356998_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/331/356/331356998_640.jpg</logo>
@@ -67,7 +97,7 @@
 
 	<entry>
 		<title>Castello di Arco</title>
-		<published>2012-08-08T07:35:20.000Z</published>
+		<published>2012-08-08T07:35:20.000-04:00</published>
 		<summary type="html">kurzer FPV Flug in Arco&lt;br /&gt;  &lt;br /&gt;  der Landebereich hätte noch 20cm kürzer sein können, mehr aber nicht.</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/329/169/329169881_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/329/169/329169881_640.jpg</logo>
@@ -82,7 +112,7 @@
 
 	<entry>
 		<title>AlaunHQ 1.0</title>
-		<published>2012-07-04T05:52:10.000Z</published>
+		<published>2012-07-04T05:52:10.000-04:00</published>
 		<summary type="html">pentawallhd roadshow</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/314/142/314142789_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/314/142/314142789_640.jpg</logo>
@@ -97,7 +127,7 @@
 
 	<entry>
 		<title>Knurri &amp; Laserpointer</title>
-		<published>2012-06-25T21:35:31.000Z</published>
+		<published>2012-06-25T21:35:31.000-04:00</published>
 		<summary type="html">lachmoewe sponsored his laz0r</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/310/616/310616675_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/310/616/310616675_640.jpg</logo>
@@ -112,7 +142,7 @@
 
 	<entry>
 		<title>Night Timelapse</title>
-		<published>2012-06-17T22:13:39.000Z</published>
+		<published>2012-06-17T22:13:39.000-04:00</published>
 		<summary type="html">first experiment</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/307/091/307091005_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/307/091/307091005_640.jpg</logo>
@@ -127,7 +157,7 @@
 
 	<entry>
 		<title>RookieQR FPV Flutrinne</title>
-		<published>2012-06-17T17:12:18.000Z</published>
+		<published>2012-06-17T17:12:18.000-04:00</published>
 		<summary type="html">windig</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/307/009/307009551_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/307/009/307009551_640.jpg</logo>
@@ -142,7 +172,7 @@
 
 	<entry>
 		<title>Knurri at Night</title>
-		<published>2012-06-06T22:27:37.000Z</published>
+		<published>2012-06-06T22:27:37.000-04:00</published>
 		<summary type="html">Fun</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/302/606/302606777_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/302/606/302606777_640.jpg</logo>
@@ -157,7 +187,7 @@
 
 	<entry>
 		<title>OLED &amp; ARM</title>
-		<published>2012-05-26T01:35:37.000Z</published>
+		<published>2012-05-26T01:35:37.000-04:00</published>
 		<summary type="html">lpc1343&lt;br /&gt;  128x128 oled (http://www.sparkfun.com/products/9678)&lt;br /&gt;  8bit 6800 interface&lt;br /&gt;  18bit color (3x6)&lt;br /&gt;  21.8 fps&lt;br /&gt;  &lt;br /&gt;  https://github.com/sebseb7/oled</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/297/581/297581773_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/297/581/297581773_640.jpg</logo>
@@ -172,7 +202,7 @@
 
 	<entry>
 		<title>Death Valley</title>
-		<published>2012-05-15T10:31:44.000Z</published>
+		<published>2012-05-15T10:31:44.000-04:00</published>
 		<summary type="html">raw, now yet cut.</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/292/711/292711125_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/292/711/292711125_640.jpg</logo>
@@ -187,7 +217,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-05-07</title>
-		<published>2012-05-15T09:05:13.000Z</published>
+		<published>2012-05-15T09:05:13.000-04:00</published>
 		<summary type="html">Page to Escalante&lt;br /&gt; &lt;br /&gt; via Smoky Mountain Road</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/292/666/292666726_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/292/666/292666726_640.jpg</logo>
@@ -202,7 +232,7 @@
 
 	<entry>
 		<title>led Segment</title>
-		<published>2012-05-13T16:35:06.000Z</published>
+		<published>2012-05-13T16:35:06.000-04:00</published>
 		<summary type="html">theTransistor</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/291/861/291861742_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/291/861/291861742_640.jpg</logo>
@@ -217,7 +247,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-05-05</title>
-		<published>2012-05-08T03:08:31.000Z</published>
+		<published>2012-05-08T03:08:31.000-04:00</published>
 		<summary type="html">Zion to Grand Canyon &lt;br /&gt; &lt;br /&gt; via Marble Canyon</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/289/414/289414661_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/289/414/289414661_640.jpg</logo>
@@ -232,7 +262,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-05-04</title>
-		<published>2012-05-08T02:28:55.000Z</published>
+		<published>2012-05-08T02:28:55.000-04:00</published>
 		<summary type="html">Las Vegas to Zion Canyon</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/289/395/289395119_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/289/395/289395119_640.jpg</logo>
@@ -247,7 +277,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-05-03</title>
-		<published>2012-05-04T13:44:33.000Z</published>
+		<published>2012-05-04T13:44:33.000-04:00</published>
 		<summary type="html">Ubehebe Crater to Las Vegas&lt;br /&gt;  &lt;br /&gt;  via&lt;br /&gt;  Badwater&lt;br /&gt;  Harry Wade Exit Route&lt;br /&gt;  Dumont Dunes</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/288/037/288037617_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/288/037/288037617_640.jpg</logo>
@@ -262,7 +292,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-05-02</title>
-		<published>2012-05-04T04:19:08.000Z</published>
+		<published>2012-05-04T04:19:08.000-04:00</published>
 		<summary type="html">Bakersville to Ubehebe Crater</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/287/832/287832083_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/287/832/287832083_640.jpg</logo>
@@ -277,7 +307,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-04-30</title>
-		<published>2012-05-02T04:26:13.000Z</published>
+		<published>2012-05-02T04:26:13.000-04:00</published>
 		<summary type="html">San Francisco</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/286/785/286785868_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/286/785/286785868_640.jpg</logo>
@@ -292,7 +322,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-05-01</title>
-		<published>2012-05-02T04:04:56.000Z</published>
+		<published>2012-05-02T04:04:56.000-04:00</published>
 		<summary type="html">SF to Bakersfield</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/286/767/286767764_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/286/767/286767764_640.jpg</logo>
@@ -307,7 +337,7 @@
 
 	<entry>
 		<title>RoadLapse 2012-04-29</title>
-		<published>2012-04-30T07:51:39.000Z</published>
+		<published>2012-04-30T07:51:39.000-04:00</published>
 		<summary type="html">San Francisco</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/285/827/285827479_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/285/827/285827479_640.jpg</logo>
@@ -322,7 +352,7 @@
 
 	<entry>
 		<title>Noisebridge excursion to Dolores Park, FPV flying</title>
-		<published>2012-04-30T04:41:48.000Z</published>
+		<published>2012-04-30T04:41:48.000-04:00</published>
 		<summary type="html">Hacking Dolores !</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/285/779/285779609_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/285/779/285779609_640.jpg</logo>
@@ -337,7 +367,7 @@
 
 	<entry>
 		<title>Driving the Noisebridge</title>
-		<published>2012-04-28T15:20:24.000Z</published>
+		<published>2012-04-28T15:20:24.000-04:00</published>
 		<summary type="html">hacking in the morning</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/285/271/285271067_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/285/271/285271067_640.jpg</logo>
@@ -352,7 +382,7 @@
 
 	<entry>
 		<title>first oled test</title>
-		<published>2012-04-13T06:00:12.000Z</published>
+		<published>2012-04-13T06:00:12.000-04:00</published>
 		<summary type="html">finally got the ssd1351 working (with an atmega16)&lt;br /&gt;  &lt;br /&gt;  &lt;br /&gt;  4wire SPI &amp; 8Mhz SPI transfers.&lt;br /&gt;  &lt;br /&gt;  will convert it to 8bit parallel interface on arm (lpc1343), to further speed it up.&lt;br /&gt;  &lt;br /&gt;  https://github.com/sebseb7/oled</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/278/308/278308141_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/278/308/278308141_640.jpg</logo>
@@ -367,7 +397,7 @@
 
 	<entry>
 		<title>spaceduel</title>
-		<published>2012-03-30T23:28:04.000Z</published>
+		<published>2012-03-30T23:28:04.000-04:00</published>
 		<summary type="html">2 player game using KORG nanoKontrol as input</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/272/603/272603379_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/272/603/272603379_640.jpg</logo>
@@ -382,7 +412,7 @@
 
 	<entry>
 		<title>Klettern an der Nonne</title>
-		<published>2012-03-24T14:34:04.000Z</published>
+		<published>2012-03-24T14:34:04.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/269/609/269609387_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/269/609/269609387_640.jpg</logo>
@@ -397,7 +427,7 @@
 
 	<entry>
 		<title>PentaWallHD finally online</title>
-		<published>2012-03-13T23:24:05.000Z</published>
+		<published>2012-03-13T23:24:05.000-04:00</published>
 		<summary type="html">c3d2</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/264/876/264876683_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/264/876/264876683_640.jpg</logo>
@@ -412,7 +442,7 @@
 
 	<entry>
 		<title>C3D2 CeilingLED Fun</title>
-		<published>2012-03-09T23:06:50.000Z</published>
+		<published>2012-03-09T23:06:50.000-04:00</published>
 		<summary type="html">extrawelt</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/316/343/316343984_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/316/343/316343984_640.jpg</logo>
@@ -427,7 +457,7 @@
 
 	<entry>
 		<title>more g3d2 stuff</title>
-		<published>2012-03-08T22:55:44.000Z</published>
+		<published>2012-03-08T22:55:44.000-04:00</published>
 		<summary type="html">see it live: http://g3d2.hq.c3d2.de.ipv4.sixxs.org/&lt;br /&gt; &lt;br /&gt; (or if you have ipv6: http://g3d2.hq.c3d2.de/ )&lt;br /&gt; &lt;br /&gt; (you can even control it remotely via ipv6, port 1339; protocol &quot;documentation&quot; :  https://github.com/sebseb7/g3d2/blob/master/wallServer/wallServerg3d2.perl )</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/263/220/263220514_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/263/220/263220514_640.jpg</logo>
@@ -442,7 +472,7 @@
 
 	<entry>
 		<title>r0ketr1s</title>
-		<published>2012-02-13T00:17:37.000Z</published>
+		<published>2012-02-13T00:17:37.000-04:00</published>
 		<summary type="html">6 Player Tetris. &lt;br /&gt;  &lt;br /&gt;  Using the r0ket as controller.&lt;br /&gt;  &lt;br /&gt;  https://github.com/sebseb7/g3d2&lt;br /&gt;  https://github.com/2bt/tetrisVI&lt;br /&gt;  http://r0ket.badge.events.ccc.de/&lt;br /&gt;  &lt;br /&gt;  und twobit sagte: &quot;haha, ich hab gerade eben erfolgreich Makros benutzt .... wow&quot; :-)</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/251/601/251601505_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/251/601/251601505_640.jpg</logo>
@@ -457,7 +487,7 @@
 
 	<entry>
 		<title>Crash</title>
-		<published>2012-01-25T20:19:03.000Z</published>
+		<published>2012-01-25T20:19:03.000-04:00</published>
 		<summary type="html">autopilot fail</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/244/021/244021176_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/244/021/244021176_640.jpg</logo>
@@ -472,7 +502,7 @@
 
 	<entry>
 		<title>Pentawall Mini</title>
-		<published>2012-01-11T18:24:35.000Z</published>
+		<published>2012-01-11T18:24:35.000-04:00</published>
 		<summary type="html">little brother of pentawall&lt;br /&gt;  big brother of pentalight</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/238/239/238239322_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/238/239/238239322_640.jpg</logo>
@@ -487,7 +517,7 @@
 
 	<entry>
 		<title>Dresden Rundflug</title>
-		<published>2012-01-09T08:43:19.000Z</published>
+		<published>2012-01-09T08:43:19.000-04:00</published>
 		<summary type="html">Dresden per Twinstar</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/237/158/237158263_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/237/158/237158263_640.jpg</logo>
@@ -502,7 +532,7 @@
 
 	<entry>
 		<title>Funjet</title>
-		<published>2012-01-09T04:53:15.000Z</published>
+		<published>2012-01-09T04:53:15.000-04:00</published>
 		<summary type="html">Funjet &amp; Mentor &amp; Merlin</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/261/237/261237420_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/261/237/261237420_640.jpg</logo>
@@ -517,7 +547,7 @@
 
 	<entry>
 		<title>metaballs on the g3d2</title>
-		<published>2012-01-06T22:36:31.000Z</published>
+		<published>2012-01-06T22:36:31.000-04:00</published>
 		<summary type="html">g3d2</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/236/476/236476804_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/236/476/236476804_640.jpg</logo>
@@ -532,7 +562,7 @@
 
 	<entry>
 		<title>g3d2 - 3 module test</title>
-		<published>2011-12-03T06:03:47.000Z</published>
+		<published>2011-12-03T06:03:47.000-04:00</published>
 		<summary type="html">60fps ,  4 bpp</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/224/198/224198270_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/224/198/224198270_640.jpg</logo>
@@ -547,7 +577,7 @@
 
 	<entry>
 		<title>PentaLight Animationen</title>
-		<published>2011-11-22T11:06:13.000Z</published>
+		<published>2011-11-22T11:06:13.000-04:00</published>
 		<summary type="html">Pentalight</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/220/026/220026688_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/220/026/220026688_640.jpg</logo>
@@ -562,7 +592,7 @@
 
 	<entry>
 		<title>Poi test</title>
-		<published>2011-11-20T19:56:48.000Z</published>
+		<published>2011-11-20T19:56:48.000-04:00</published>
 		<summary type="html">poi</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/219/316/219316280_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/219/316/219316280_640.jpg</logo>
@@ -577,7 +607,7 @@
 
 	<entry>
 		<title>PentawallHD Bestückung</title>
-		<published>2011-11-14T20:06:30.000Z</published>
+		<published>2011-11-14T20:06:30.000-04:00</published>
 		<summary type="html">Zeitraffer 400%&lt;br /&gt; &lt;br /&gt; 42 Bauteile&lt;br /&gt; &lt;br /&gt; 1 Modul von 36&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; https://github.com/sebseb7/PentawallHD</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/217/027/217027745_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/217/027/217027745_640.jpg</logo>
@@ -592,7 +622,7 @@
 
 	<entry>
 		<title>Plasma for PentawallHD</title>
-		<published>2011-11-10T23:43:53.000Z</published>
+		<published>2011-11-10T23:43:53.000-04:00</published>
 		<summary type="html">by twobit</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/215/699/215699547_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/215/699/215699547_640.jpg</logo>
@@ -607,7 +637,7 @@
 
 	<entry>
 		<title>Datenspuren 2011 Abschlussveranstaltung</title>
-		<published>2011-10-28T09:14:17.000Z</published>
+		<published>2011-10-28T09:14:17.000-04:00</published>
 		<summary type="html">www.datenspuren.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/210/486/210486125_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/210/486/210486125_640.jpg</logo>
@@ -622,7 +652,7 @@
 
 	<entry>
 		<title>Datenspuren 2011 - 0zapftis</title>
-		<published>2011-10-19T14:07:43.000Z</published>
+		<published>2011-10-19T14:07:43.000-04:00</published>
 		<summary type="html">Die Jagd auf den Staatstrojaner&lt;br /&gt; &lt;br /&gt; www.datenspuren.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/207/134/207134399_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/207/134/207134399_640.jpg</logo>
@@ -637,7 +667,7 @@
 
 	<entry>
 		<title>Moritzburg FPV</title>
-		<published>2011-10-03T15:06:05.000Z</published>
+		<published>2011-10-03T15:06:05.000-04:00</published>
 		<summary type="html">FPV Flug bei Schloss Moritzburg</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/203/807/203807556_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/203/807/203807556_640.jpg</logo>
@@ -652,7 +682,7 @@
 
 	<entry>
 		<title>outdoorHQ</title>
-		<published>2011-10-03T07:58:25.000Z</published>
+		<published>2011-10-03T07:58:25.000-04:00</published>
 		<summary type="html">HQ@Elbwiese</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/200/904/200904532_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/200/904/200904532_640.jpg</logo>
@@ -667,7 +697,7 @@
 
 	<entry>
 		<title>Burning Bizzare</title>
-		<published>2011-09-30T17:03:57.000Z</published>
+		<published>2011-09-30T17:03:57.000-04:00</published>
 		<summary type="html">cularis</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/200/230/200230322_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/200/230/200230322_640.jpg</logo>
@@ -682,7 +712,7 @@
 
 	<entry>
 		<title>First Cularis FPV Flight</title>
-		<published>2011-09-21T05:33:01.000Z</published>
+		<published>2011-09-21T05:33:01.000-04:00</published>
 		<summary type="html">The Cularis a a perfect fpv plane. Much space inside and a great glider (saving energy for long flights).</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/196/653/196653752_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/196/653/196653752_640.jpg</logo>
@@ -697,7 +727,7 @@
 
 	<entry>
 		<title>PentaLight</title>
-		<published>2011-09-05T19:03:54.000Z</published>
+		<published>2011-09-05T19:03:54.000-04:00</published>
 		<summary type="html">First tests with the PentaLight (our DIY solder Kit for Kiddies)</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/191/173/191173713_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/191/173/191173713_640.jpg</logo>
@@ -712,7 +742,7 @@
 
 	<entry>
 		<title>sid module first tests</title>
-		<published>2011-08-29T21:33:36.000Z</published>
+		<published>2011-08-29T21:33:36.000-04:00</published>
 		<summary type="html">pentawall sid module</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/188/926/188926429_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/188/926/188926429_640.jpg</logo>
@@ -727,7 +757,7 @@
 
 	<entry>
 		<title>CCCamp2011 Early Morning</title>
-		<published>2011-08-13T06:45:09.000Z</published>
+		<published>2011-08-13T06:45:09.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/183/835/183835270_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/183/835/183835270_640.jpg</logo>
@@ -742,7 +772,7 @@
 
 	<entry>
 		<title>Preikestolen Helicopter Flight</title>
-		<published>2011-08-12T14:13:04.000Z</published>
+		<published>2011-08-12T14:13:04.000-04:00</published>
 		<summary type="html">T-Rex 450 &amp; GoPro</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/183/668/183668055_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/183/668/183668055_640.jpg</logo>
@@ -757,7 +787,7 @@
 
 	<entry>
 		<title>Djupvatnet FPV</title>
-		<published>2011-08-12T10:35:14.000Z</published>
+		<published>2011-08-12T10:35:14.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/183/607/183607130_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/183/607/183607130_640.jpg</logo>
@@ -772,7 +802,7 @@
 
 	<entry>
 		<title>CCCamp2011</title>
-		<published>2011-08-11T16:13:14.000Z</published>
+		<published>2011-08-11T16:13:14.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/183/384/183384757_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/183/384/183384757_640.jpg</logo>
@@ -787,7 +817,7 @@
 
 	<entry>
 		<title>CCCamp2011 Pentagon Aerial Footage</title>
-		<published>2011-08-11T09:29:19.000Z</published>
+		<published>2011-08-11T09:29:19.000-04:00</published>
 		<summary type="html">Helicopter Flight over the Village of the C3D2 at the 2011 Chaos Communication Camp</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/249/182/249182972_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/249/182/249182972_640.jpg</logo>
@@ -802,7 +832,7 @@
 
 	<entry>
 		<title>Chaos Communication Camp 2011</title>
-		<published>2011-07-21T09:32:41.000Z</published>
+		<published>2011-07-21T09:32:41.000-04:00</published>
 		<summary type="html">http://camp.ccc.de&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; See you in the Pentagon Village !</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/176/740/176740213_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/176/740/176740213_640.jpg</logo>
@@ -817,7 +847,7 @@
 
 	<entry>
 		<title>Dresden Radian Pro FPV GoPro</title>
-		<published>2011-07-19T17:17:45.000Z</published>
+		<published>2011-07-19T17:17:45.000-04:00</published>
 		<summary type="html">just tested a panel antenna: perfect video all the time.</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/176/191/176191632_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/176/191/176191632_640.jpg</logo>
@@ -832,7 +862,7 @@
 
 	<entry>
 		<title>Radian Pro FPV Dresden</title>
-		<published>2011-07-09T16:48:29.000Z</published>
+		<published>2011-07-09T16:48:29.000-04:00</published>
 		<summary type="html">GoPro under the wing</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/196/654/196654118_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/196/654/196654118_640.jpg</logo>
@@ -847,7 +877,7 @@
 
 	<entry>
 		<title>Spalten (Columns) auf der LedWall 2</title>
-		<published>2011-07-06T05:21:11.000Z</published>
+		<published>2011-07-06T05:21:11.000-04:00</published>
 		<summary type="html">bot vs. twobit</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/171/891/171891359_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/171/891/171891359_640.jpg</logo>
@@ -862,7 +892,7 @@
 
 	<entry>
 		<title>ledwall super mario 2</title>
-		<published>2011-07-05T23:27:38.000Z</published>
+		<published>2011-07-05T23:27:38.000-04:00</published>
 		<summary type="html">led wall super mario</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/171/823/171823734_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/171/823/171823734_640.jpg</logo>
@@ -877,7 +907,7 @@
 
 	<entry>
 		<title>ledwall super mario</title>
-		<published>2011-07-05T20:20:49.000Z</published>
+		<published>2011-07-05T20:20:49.000-04:00</published>
 		<summary type="html">Pentawall LED Wall</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/171/786/171786546_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/171/786/171786546_640.jpg</logo>
@@ -892,7 +922,7 @@
 
 	<entry>
 		<title>TwinStar + GoPro HD</title>
-		<published>2011-05-06T14:47:42.000Z</published>
+		<published>2011-05-06T14:47:42.000-04:00</published>
 		<summary type="html">Test Flight of a new Camera Mount</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/152/178/152178071_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/152/178/152178071_640.jpg</logo>
@@ -907,7 +937,7 @@
 
 	<entry>
 		<title>LED Wall Movie</title>
-		<published>2011-03-18T10:41:13.000Z</published>
+		<published>2011-03-18T10:41:13.000-04:00</published>
 		<summary type="html">Dilbert</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/136/192/136192785_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/136/192/136192785_640.jpg</logo>
@@ -922,7 +952,7 @@
 
 	<entry>
 		<title>LED Wall</title>
-		<published>2011-03-16T14:39:30.000Z</published>
+		<published>2011-03-16T14:39:30.000-04:00</published>
 		<summary type="html">finally done.&lt;br /&gt; &lt;br /&gt; 26fps over USART and I2C</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/135/651/135651448_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/135/651/135651448_640.jpg</logo>
@@ -937,7 +967,7 @@
 
 	<entry>
 		<title>First Light</title>
-		<published>2011-03-06T23:53:22.000Z</published>
+		<published>2011-03-06T23:53:22.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/132/743/132743037_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/132/743/132743037_640.jpg</logo>
@@ -952,7 +982,7 @@
 
 	<entry>
 		<title>Funjet</title>
-		<published>2011-02-13T17:43:43.000Z</published>
+		<published>2011-02-13T17:43:43.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/126/612/126612226_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/126/612/126612226_640.jpg</logo>
@@ -967,7 +997,7 @@
 
 	<entry>
 		<title>easyglider pro</title>
-		<published>2011-02-13T08:19:33.000Z</published>
+		<published>2011-02-13T08:19:33.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/126/524/126524878_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/126/524/126524878_640.jpg</logo>
@@ -982,7 +1012,7 @@
 
 	<entry>
 		<title>5ledsworking</title>
-		<published>2011-01-21T09:19:28.000Z</published>
+		<published>2011-01-21T09:19:28.000-04:00</published>
 		<summary type="html"></summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/120/257/120257088_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/120/257/120257088_640.jpg</logo>
@@ -997,7 +1027,7 @@
 
 	<entry>
 		<title>LED test</title>
-		<published>2011-01-20T14:48:53.000Z</published>
+		<published>2011-01-20T14:48:53.000-04:00</published>
 		<summary type="html">a&lt;br /&gt;  &lt;br /&gt;  test</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/120/061/120061724_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/120/061/120061724_640.jpg</logo>
@@ -1012,7 +1042,7 @@
 
 	<entry>
 		<title>27c3 mikrokopter</title>
-		<published>2010-12-28T15:28:03.000Z</published>
+		<published>2010-12-28T15:28:03.000-04:00</published>
 		<summary type="html">http://ddfpv.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/114/543/114543216_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/114/543/114543216_640.jpg</logo>
@@ -1027,7 +1057,7 @@
 
 	<entry>
 		<title>TwinStar winter fpv flight with GoPro HD</title>
-		<published>2010-12-08T09:34:49.000Z</published>
+		<published>2010-12-08T09:34:49.000-04:00</published>
 		<summary type="html">http://ddfpv.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/109/600/109600758_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/109/600/109600758_640.jpg</logo>
@@ -1042,7 +1072,7 @@
 
 	<entry>
 		<title>FunJet GoPro HD FPV Dresden</title>
-		<published>2010-12-03T10:54:25.000Z</published>
+		<published>2010-12-03T10:54:25.000-04:00</published>
 		<summary type="html">http://ddfpv.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/108/364/108364663_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/108/364/108364663_640.jpg</logo>
@@ -1057,7 +1087,7 @@
 
 	<entry>
 		<title>dnano</title>
-		<published>2010-11-11T06:01:11.000Z</published>
+		<published>2010-11-11T06:01:11.000-04:00</published>
 		<summary type="html">gopro hd&lt;br /&gt; &lt;br /&gt; http://ddfpv.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/102/859/102859701_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/102/859/102859701_640.jpg</logo>
@@ -1072,7 +1102,7 @@
 
 	<entry>
 		<title>Knuri HD</title>
-		<published>2010-11-05T17:49:07.000Z</published>
+		<published>2010-11-05T17:49:07.000-04:00</published>
 		<summary type="html">Nurflügler am Hang, mein erster Film mit der GoPro&lt;br /&gt; &lt;br /&gt; http://ddfpv.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/101/498/101498726_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/101/498/101498726_640.jpg</logo>
@@ -1087,7 +1117,7 @@
 
 	<entry>
 		<title>Sächsische Schweiz FPV</title>
-		<published>2010-09-22T06:51:00.000Z</published>
+		<published>2010-09-22T06:51:00.000-04:00</published>
 		<summary type="html">http://ddfpv.de</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/910/329/91032997_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/910/329/91032997_640.jpg</logo>
@@ -1102,7 +1132,7 @@
 
 	<entry>
 		<title>Mobiles Kopter Tool</title>
-		<published>2010-09-15T01:16:22.000Z</published>
+		<published>2010-09-15T01:16:22.000-04:00</published>
 		<summary type="html">Jetzt auch Settings verstellen.&lt;br /&gt; &lt;br /&gt; einfach per Wi232 mit der Kopter Verbinden und unterwegs Settings verstellen.&lt;br /&gt; &lt;br /&gt; &lt;br /&gt; http://ddfpv.de/projects/mft/</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/894/479/89447999_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/894/479/89447999_640.jpg</logo>
@@ -1117,7 +1147,7 @@
 
 	<entry>
 		<title>TwinStar FPV</title>
-		<published>2010-09-12T18:28:27.000Z</published>
+		<published>2010-09-12T18:28:27.000-04:00</published>
 		<summary type="html">Camera: FatShark HD1&lt;br /&gt; Pilot: FY-21AP&lt;br /&gt; max Distance: 2.1km&lt;br /&gt; Altitude: 150m &lt;br /&gt; &lt;br /&gt; http://ddfpv.de/</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/889/170/88917071_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/889/170/88917071_640.jpg</logo>
@@ -1132,7 +1162,7 @@
 
 	<entry>
 		<title>Onboard vs. Ground Recording</title>
-		<published>2010-09-08T16:14:10.000Z</published>
+		<published>2010-09-08T16:14:10.000-04:00</published>
 		<summary type="html">The main video is recorded using a FatShark HD1.&lt;br /&gt; The small video is recorded using a JXD990 directly connected to the video receiver. The Fatshark produces a much better video, despite the odd colors and the defocused lens. &lt;br /&gt; &lt;br /&gt; The fatshark records 1280x720 8Mbit/s&lt;br /&gt; The JXD990 records 704x448 4Mbit/s&lt;br /&gt; &lt;br /&gt; both have a lousy encoder, I have seen 4Mbit/s videos that looked magnitudes better. &lt;br /&gt; &lt;br /&gt; Maybe I will go for the GOPRO HERO HD.&lt;br /&gt; &lt;br /&gt; Update: the HD1 is now broken, due to its bad construction, I now use the GoPro HD which is MUCH better.</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/881/223/88122376_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/881/223/88122376_640.jpg</logo>
@@ -1147,7 +1177,7 @@
 
 	<entry>
 		<title>Alaunpark, Dresden, Germany</title>
-		<published>2010-09-06T14:18:24.000Z</published>
+		<published>2010-09-06T14:18:24.000-04:00</published>
 		<summary type="html">Fatshark HD1 on a Hexakopter.&lt;br /&gt; &lt;br /&gt; The wobbling seems to come from motor vibration.&lt;br /&gt; &lt;br /&gt; The fatshark produces a blueish image, probably this can be fixed with an IR/UV filter.&lt;br /&gt; &lt;br /&gt; http://maps.google.com/?t=k&amp;&amp;z=17&amp;ll=51.070763,13.757672&lt;br /&gt; &lt;br /&gt; http://ddfpv.de/</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/876/175/87617562_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/876/175/87617562_640.jpg</logo>
@@ -1162,7 +1192,7 @@
 
 	<entry>
 		<title>Fatshark HD1 Test on a Hexacopter</title>
-		<published>2010-09-05T22:39:15.000Z</published>
+		<published>2010-09-05T22:39:15.000-04:00</published>
 		<summary type="html">the lens is not correctly focused</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/874/958/87495854_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/874/958/87495854_640.jpg</logo>
@@ -1177,7 +1207,7 @@
 
 	<entry>
 		<title>FPV Dresden</title>
-		<published>2010-04-04T12:42:21.000Z</published>
+		<published>2010-04-04T12:42:21.000-04:00</published>
 		<summary type="html">Multiplex Easyglider PRO&lt;br /&gt; EzOSD</summary>
 		<link rel="logo" type="image/jpeg" href="http://b.vimeocdn.com/ts/565/375/56537558_640.jpg"/>
 		<logo>http://b.vimeocdn.com/ts/565/375/56537558_640.jpg</logo>
