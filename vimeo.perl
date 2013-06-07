@@ -218,7 +218,7 @@ for(0..$#videos)
 		<logo>$logo</logo>
 		<link rel=\"alternate\" type=\"text/html\" href=\"http://vimeo.com/".$videos[$_]."\"/>
 		<link rel=\"alternate\" type=\"text/html\" href=\"$yt\"/>
-		<link rel=\"enclosure\" href=\"http://video.exse.net/vimeo/".$videos[$_].$filetype."\"/>
+		<link rel=\"enclosure\" href=\"http://monitor.exse.net/vimeo/".$videos[$_].$filetype."\"/>
 		<link rel=\"alternate\" type=\"text/html\" href=\"$yt\"/>
 		<link rel=\"payment\" href=\"https://flattr.com/submit/auto?user_id=sebseb7&amp;url=http://vimeo.com/".$videos[$_]."\"/>
 	</entry>
