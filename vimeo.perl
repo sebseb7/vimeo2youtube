@@ -163,25 +163,25 @@ for(0..$#videos)
 	
 	my $filename = $videos[$_].$filetype;
 
+	my $desc2 = $desc;
+	$desc2 =~  s/\&lt\;br \/\&gt\;/\n/go;
+	use HTML::Entities qw(encode_entities_numeric decode_entities);
+	use Encode;
+	$desc2 =  decode_entities($desc2);
+	$desc2 =  encode_entities_numeric($desc2);
+	warn Encode::encode("ISO-8859-1", $desc2);
+	my $title2 =  decode_entities($title);
+	my $title2 =  encode_entities_numeric($title2);
 
 
 	if(! -f 'youtube_ok'.$filename)
 	{
-		my $desc2 = $desc;
-		$desc2 =~  s/\&lt\;br \/\&gt\;/\n/go;
-		use HTML::Entities;
-		use Encode;
-		$desc2 =  decode_entities($desc2);
-		$desc2 =  encode_entities($desc2);
-		warn Encode::encode("ISO-8859-1", $desc2);
-		my $title2 =  decode_entities($title);
-		my $title2 =  encode_entities($title2);
-		my $return  =	`google youtube post --category Sports --title "$title2" --summary "Vimeo: http://vimeo.com/$id (higher Quality)\nTorrent: http://bitlove.org/sebseb7/vimeo/$filename.torrent\n(highest Quality; original File)\n\n$desc2" --tags "$tags" $filename 2>&1`;
+		my $return  =	`google youtube post -u torosaw\@gmail.com --category Sports --title "$title2" --summary "Vimeo: http://vimeo.com/$id (higher Quality)\nTorrent: http://bitlove.org/sebseb7/vimeo/$filename.torrent\n(highest Quality; original File)\n\n$desc2" --tags "$tags" $filename 2>&1`;
 		open  outfile,'>youtube_ok'.$filename;
 		print outfile $return;
 		close outfile;
 		warn length($return);
-		die if length($return) != 102;
+		die $return if length($return) != 102;
 		if($return =~ /uploaded\: http\:\/\/www\.youtube\.com\/watch\?v\=([^\&]+)\&feature/)
 		{
 			warn $1;
@@ -211,9 +211,9 @@ for(0..$#videos)
 	print feed "
 
 	<entry>
-		<title>$title</title>
+		<title>$title2</title>
 		<published>$date</published>
-		<summary type=\"html\">$desc</summary>
+		<summary type=\"html\">$desc2</summary>
 		<link rel=\"logo\" type=\"image/jpeg\" href=\"$logo\"/>
 		<logo>$logo</logo>
 		<link rel=\"alternate\" type=\"text/html\" href=\"http://vimeo.com/".$videos[$_]."\"/>
@@ -233,3 +233,5 @@ print feed "</feed>";
 close feed;
 
 rename "feed.xml_" , "feed.xml";
+
+#megasync -u <user> -p <password> -r /Root/vimeo -l .
